@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main-container{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    border: 10px solid black;
+    padding: 3px;
+}
+
+
+
+.img-cont{
+    width: 100%;
+}
+
+.img-1{
+    width: 100%;
+}
+
+.head-cont{
+    padding: 10px;
+}
+
+.li-item{
+    margin-left: 30px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    width: 120px;
+}
