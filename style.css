@@ -51,6 +51,12 @@ button{
 
 @media (min-width:1024px) {
     
+    .main-container{
+        width: 100%;
+        height: auto;
+        padding: 3px;
+    }
+
 
     h1{
         font-size: 60px;
