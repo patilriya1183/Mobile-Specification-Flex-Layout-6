@@ -48,3 +48,22 @@ button{
     border-radius: 5px;
     width: 120px;
 }
+
+@media (min-width:1024px) {
+    
+
+    h1{
+        font-size: 60px;
+    }
+
+    li{
+        font-size: 30px;
+    }
+
+    button{
+        width: 250px;
+        padding: 15px;
+        font-size: 25px;
+    }
+
+}
